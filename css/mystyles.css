@@ -5,8 +5,8 @@
     line-height: 100px;
 }
 
-body{
-    background-color: rgb(244, 236, 220);
+.body{
+    background-color: red;
 }
 
 iframe {
